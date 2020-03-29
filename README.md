@@ -11,13 +11,13 @@ docker-compose down
 
 Project involving the following themes:
 
-Database (postgres:9.6)&nbsp;
-Volumes&nbsp;
-Frontend (nginx:1.13)&nbsp;
-Files&nbsp;
-Reverse proxy&nbsp;
-Nets&nbsp;
-Workers&nbsp;
-Multiple instances&nbsp;
-Good practices - Environment variables&nbsp;
-Override (environment variables)&nbsp;
+- Database (postgres:9.6)
+- Volumes
+- Frontend (nginx:1.13)
+- Files
+- Reverse proxy
+- Nets
+- Workers
+- Multiple instances
+- Good practices - Environment variables
+- Override (environment variables)
