@@ -9,7 +9,7 @@ open http://localhost/
 # stop
 docker-compose down
 
-Project involving the following themes:
+# Project involving the following themes:
 
 - Database (postgres:9.6)
 - Volumes
